@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  height: 100vh;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.searchbar {
+  max-width: 400px !important;
+}
+
+.navbar {
+  background-color: #d5e9da;
+}
+
+.warncolor {
+  background-color: #b8b5b5;
+}
+
+.home {
+  background-color: #f2eeeb;
+}
+
+.cardbg {
+  background-color: #848180;
+}
+
+a {
+  text-decoration: none;
+}
